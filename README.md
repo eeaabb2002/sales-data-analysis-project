@@ -8,7 +8,7 @@ Analyze sales data to identify trends and improve business decision-making.
 - Includes orders, sales, profit, region, and dates
 
 ##  Data Cleaning
-- Removed duplicate records
+- Checked for duplicate records and removed only fully duplicated rows to preserve valid multi-item orders
 - Handled missing values
 - Converted date column to proper format
 - Standardized categorical values
