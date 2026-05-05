@@ -8,8 +8,8 @@ Analyze sales data to identify trends and improve business decision-making.
 - Includes orders, sales, profit, region, and dates
 
 ##  Data Cleaning
-- Removing Duplicates
-- Handled missing values
+- Removing duplicates in sales_order#
+- Missing values were handled using provided reference values from the lab dataset. No rows were deleted unnecessarily to preserve data consistency.
 - Converted date column to proper format
 - Standardized categorical values
 
