@@ -43,7 +43,8 @@ This project analyzes bike sales data to uncover trends across countries, custom
 - Data Cleaning
 - Pivot Tables
 - Pivot Charts
-  **Power BI**
+  
+ **Power BI**
 - Dashboard Design
 - KPI Cards
 - Interactive Slicers
