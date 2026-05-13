@@ -50,6 +50,9 @@ This project analyzes bike sales data to uncover trends across countries, custom
 - Interactive Slicers
 - Data Visualization
 
+## Dashboard Preview
+![Dashboard](https://github.com/eeaabb2002/sales-data-analysis-project/blob/main/images/Power%20BI%20dashboard.png)
+
 ##  Conclusion
 This project provides a clear overview of order quantity distribution across regions, age groups, and gender segments, highlighting key customer patterns and overall demand behavior.
 
